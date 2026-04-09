@@ -57,11 +57,8 @@ Green-Earth
 │   └── images
 └── README.md
 
-⚙️ Installation
 
-Clone the repository:
 
-git clone https://github.com/wazed-md-abdul/Green-Earth.git
 
 Open the project folder and run:
 
@@ -76,7 +73,6 @@ Add your project screenshot here.
 ![Green Earth Screenshot](./assets/Screenshot_5.png)
 👨‍💻 Author
 
-Abdul Wazed
 
-GitHub:
-https://github.com/wazed-md-abdul
+
+
